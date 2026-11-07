@@ -49,8 +49,9 @@ I'm deeply passionate about solving complex algorithmic problems and building th
 ## <img src="https://media1.giphy.com/media/QNFk30fVrNtJWzs7o2/giphy.gif?cid=6c09b9527xoqaqvoda33b6u2bolunkfajpa16wuzadgeljmf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="28px"> Languages
 
 <div align="center">
-<code><img src="https://em-content.zobj.net/source/twitter/53/flag-for-united-states_1f1fa-1f1f8.png" width="30px" alt="English Flag"> English: Advanced / Academic </code>
-<code><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Lion_and_Sun_flag_%28emoji%29.svg/1280px-Lion_and_Sun_flag_%28emoji%29.svg.png" width="30px" alt="Iranian flag"> Persian: Native </code>
+<code><img align="middle" src="https://em-content.zobj.net/source/twitter/53/flag-for-united-states_1f1fa-1f1f8.png" width="30px" alt="English Flag"> English: Advanced / Academic </code>
+<code><img align="middle" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Lion_and_Sun_flag_%28emoji%29.svg/1280px-Lion_and_Sun_flag_%28emoji%29.svg.png" width="30px" alt="Iranian flag"> Persian: Native </code>
+</div>
 
 <br/>
 </div>
