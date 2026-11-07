@@ -40,9 +40,8 @@ I'm deeply passionate about solving complex algorithmic problems and building th
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNnOWVqbGJqZ3lyeGlkN2kyd21ycmJtOWNveGNzYnMzeTU5dWMycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZyLb5USWvh0uxg10xP/giphy.gif" width="28px"> Honors & Focus Areas
 
 <div align="center">
-<code><img src="https://img.shields.io/badge/INOAI-Top%20200%20Finalist-gold?style=for-the-badge" alt="INOAI Top 200"></code>
 <code><img src="https://img.shields.io/badge/Focus-Algorithms%20%26%20Data%20Structures-blue?style=for-the-badge" alt="Algorithms"></code>
-<code><img src="https://img.shields.io/badge/Goal-MIT%20Computer%20Science-red?style=for-the-badge" alt="MIT Goal"></code>
+<code><img src="https://img.shields.io/badge/Goal-Stanford%20Computer%20Science-red?style=for-the-badge" alt="Stanford Goal"></code>
 
 <br/>
 </div>
@@ -66,7 +65,7 @@ I'm deeply passionate about solving complex algorithmic problems and building th
  <summary><h3>👨🏻‍💻 Kasra's Journey & Goals</h3></summary>
    <p align="left">
 My journey into computer science began with a fascination for logic and problem-solving. Over time, this curiosity transformed into a dedicated commitment to competitive programming and algorithmic thinking.<br/><br/>
-As a <b>Top 200 Finalist in the Iranian National Olympiad in Artificial Intelligence (INOAI)</b>, I have spent significant time honing my skills in algorithms, graph theory, dynamic programming, and data structures using C++. Parallelly, I build tools and backend scripts using Node.js and Linux environments.<br/><br/>
-My long-term ambition is to pursue higher education and research in <b>Computer Science and AI at world-class institutions like MIT</b>, contributing to theoretical computer science and solving real-world challenges through code.
+I have spent significant time honing my skills in algorithms, graph theory, dynamic programming, and data structures using C++. Parallelly, I build tools and backend scripts using Node.js and Linux environments.<br/><br/>
+My long-term ambition is to pursue higher education and research in <b>Computer Science and AI at world-class institutions like Stanford</b>, contributing to theoretical computer science and solving real-world challenges through code.
 </p>
 </details>
