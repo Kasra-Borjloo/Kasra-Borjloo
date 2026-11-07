@@ -50,7 +50,7 @@ I'm deeply passionate about solving complex algorithmic problems and building th
 
 <div align="center">
 <code><img src="https://upload.wikimedia.org/wikipedia/en/archive/a/a4/20151118161037%21Flag_of_the_United_States.svg" width="30px" alt="English Flag"> English: Advanced / Academic </code>
-<code><img src="https://flagcdn.com/w80/ir.png" width="30px" alt="Iranian flag"> Persian: Native </code>
+<code><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Lion_and_Sun_flag_%28emoji%29.svg/1280px-Lion_and_Sun_flag_%28emoji%29.svg.png" width="30px" alt="Iranian flag"> Persian: Native </code>
 
 <br/>
 </div>
